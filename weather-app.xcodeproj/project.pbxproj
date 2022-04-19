@@ -113,6 +113,9 @@
 		8A9F7866280F5A4800FB6A34 /* weather-app WatchKit Extension */ = {
 			isa = PBXGroup;
 			children = (
+				8A9F7882280F5AE000FB6A34 /* Managers */,
+				8A9F7881280F5AD500FB6A34 /* Models */,
+				8A9F7880280F5AC500FB6A34 /* Views */,
 				8A9F7867280F5A4800FB6A34 /* ContentView.swift */,
 				8A9F7869280F5A4800FB6A34 /* weather_appApp.swift */,
 				8A9F786B280F5A4800FB6A34 /* ComplicationController.swift */,
@@ -129,6 +132,27 @@
 				8A9F7870280F5A4900FB6A34 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8A9F7880280F5AC500FB6A34 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		8A9F7881280F5AD500FB6A34 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		8A9F7882280F5AE000FB6A34 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Managers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
